@@ -20,7 +20,18 @@ to the [MyBinder](https://mybinder.org/) project.
 
 # Higgs Boson Visualization
 
-\[Better image for comparison\]
+Can we get the data from the CMS experiment (part of the LHC) and (re-)discover
+the Higgs Boson - also called the God Particle? You can judge for yourself. The
+figure from my analysis is at top left. Two different views of the discovery
+plot shown in the discovery publication are below and to the right of my plot. 
+
+<br/>
+<div>
+  <img src="https://raw.githubusercontent.com/bballdave025/higgs_boson_visualized/main/higgs_plot_combined.png"
+       alt="A good view of the figure from our analysis compared to the figure from the publication."
+       width="600px">
+</div>
+<br/>
 
 [<b>Higgs Boson Discovery</b> Presentation Page (not yet set up)](#)
 
