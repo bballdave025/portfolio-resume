@@ -33,7 +33,7 @@ plot shown in the discovery publication are below and to the right of my plot.
 </div>
 <br/>
 
-[<b>Higgs Boson Discovery</b> Presentation Page (not yet set up)](#)
+[<b>Higgs Boson Discovery</b> Presentation Page]([#https://github.com/bballdave025/visualization_portfolio/tree/main/higgs_boson#readme)
 
 [`higgs_boson_visualisation` repo](https://github.com/bballdave025/higgs_boson_visualized)
 
@@ -49,12 +49,12 @@ discovery figure. Below is a sneak peak at my work and the discovery figure.
 
 This is a nice project that contains some fundamental parts of Natural Language
 Processing. I use it for my job applications. Currently, I'm running it for
-a job that really interests me, using AI?ML and Data Science to help in the
+a job that really interests me, using AI/ML and Data Science to help in the
 medical-imaging business.
 
 [<b>Check Match between Job Description and Job Application</b> Presentation Page (not yet set up)](#)
 
-[`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)))
+[`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)
 
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
@@ -64,10 +64,9 @@ well. It's a nice combination of NLP and Machine Learning basics.
 
 [<b>CNN for NLP in PyTorch</b> Presentation Page (not yet set up)](#)
 
-[`nlp_w_pytorch_zhongyu-pan` repo](https://github.com/bballdave025/nlp_w_pytorch_zhongyu-pan))
+[`nlp_w_pytorch_zhongyu-pan` repo](https://github.com/bballdave025/nlp_w_pytorch_zhongyu-pan)
 
 \[To put on the presentation page\]
-
 This is my favorite, nice, and simple code for a simple CNN, created using PyTorch. I
 really like how I did the first part - using the (Transformer-type/LLM) AI to do each
 of the steps described by the teacher in the course this project follows. That course is
@@ -84,6 +83,21 @@ The MNIST digit database and challenge give us the chance to find out.
 [<b></b>Presentation Page (not yet set up)](#)
 
 [`higgs_boson_visualisation` repo](https://github.com/bballdave025/higgs_boson_visualized)
+
+
+# My Computer Vision / Manuscript Studies Paper - Finding Pieces of Older Books that Bind Old Books
+
+Some of the most exciting finds in Manuscript Studies are previously unknown books in
+the binding of other books. Important finds - works previously believed to be lost as
+well as untapped genealogical data - come as researchers look at what book-binders
+called waste and used to bind and protect other works.  We bring Machine Learning and
+Artificial Intelligence into the search.
+
+\[Images cropped on interesting parts.\]
+
+These images are details of interesting finds in the dataset I've been building and using.
+
+[`manuscript-waste-reuse-finder` repo](https://github.com/bballdave025/manuscript-waste-reuse-finder)
 
 
 # Hooray! An Excuse to Learn the R Programming Language!
