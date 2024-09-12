@@ -37,6 +37,10 @@ plot shown in the discovery publication are below and to the right of my plot.
 
 [`higgs_boson_visualisation` repo](https://github.com/bballdave025/higgs_boson_visualized)
 
+[CoLab Version](https://colab.research.google.com/drive/1xROjIalylxzxJSDAM0fJ69pV1UEu9R7q?usp=sharing)
+
+[MyBinder Version](https://mybinder.org/v2/gh/bballdave025/higgs_boson_visualized/main?labpath=Higgs_Boson_Discovery_Visualization.ipynb)
+
 \[To put on the presentation page\]
 This was my chance to return to grad school, where I studied Nuclear/Particle
 Physics. The goal was to do the data analysis to "re-discover" the Higgs Boson - 
@@ -45,17 +49,19 @@ analysis to create a histogram that looks pretty similar to the publicatin's
 discovery figure. Below is a sneak peak at my work and the discovery figure.
 
 
-# Does My Application and Résumé Match the Job Description?
+# Do My Application and Résumé Match the Job Description?
 
 This is a nice project that contains some fundamental parts of Natural Language
-Processing. I use it for my job applications. Currently, I'm running it for
-a job that really interests me, using AI/ML and Data Science to help in the
-medical-imaging business.
+Processing. I use it for my job applications. Currently, I'm thinking about
+running it for a job that really interests me, using AI/ML and Data Science to 
+help in the medical-imaging business, but I'm not sure if the potential
+employer would like to have the data out where everyone can find it.
 
 [<b>Check Match between Job Description and Job Application</b> Presentation Page (not yet set up)](#)
 
 [`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)
 
+[MyBinder Version](https://www.google.com/url?q=https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fbballdave025%2Fjob-app-word-freq%2Fancestry_hwr%3Flabpath%3DPart_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
 
@@ -66,12 +72,14 @@ well. It's a nice combination of NLP and Machine Learning basics.
 
 [`nlp_w_pytorch_zhongyu-pan` repo](https://github.com/bballdave025/nlp_w_pytorch_zhongyu-pan)
 
+[CoLab Version](https://colab.research.google.com/drive/1PKkdbNcqUfV0sHCosWZf3JdF6F3kGoj7?usp=sharing)
+
 \[To put on the presentation page\]
 This is my favorite, nice, and simple code for a simple CNN, created using PyTorch. I
 really like how I did the first part - using the (Transformer-type/LLM) AI to do each
 of the steps described by the teacher in the course this project follows. That course is
 [_Natural Language Processing with PyTorch_](https://www.linkedin.com/learning/natural-language-processing-with-pytorch/), 
-taugh by Zhongyou Pan. Note that it's a LinkedIn course, and thus will require a login, 
+taugh by Zhongyou Pan. Note that the previous link is to a LinkedIn course, and thus will require a login, 
 which itself will require an account.
 
 
@@ -82,8 +90,14 @@ The MNIST digit database and challenge give us the chance to find out.
 
 [<b></b>Presentation Page (not yet set up)](#)
 
-[`higgs_boson_visualisation` repo](https://github.com/bballdave025/higgs_boson_visualized)
+[`envelope-zip-reading` repo](https://github.com/bballdave025/envelope-zip-reading)
 
+@TODO: I'll need to include information about how to set up the directories used
+in the project in the CoLab Runtime machine.
+
+[CoLab Version with Single-Hidden-Layer Approach](https://colab.research.google.com/drive/1XS-Mly_sn-CezqaA5Ksj36pn6Kv1twrH?usp=sharing)
+
+[CoLab Version with CNN Approach](https://colab.research.google.com/drive/1ta1gFaxWkX57PJsvGrhGrlWfxdHb1u2a?usp=sharing)
 
 # My Computer Vision / Manuscript Studies Paper - Finding Pieces of Older Books that Bind Old Books
 
@@ -103,6 +117,8 @@ These images are details of interesting finds in the dataset I've been building 
 # Hooray! An Excuse to Learn the R Programming Language!
 
 [repo](https://github.com/bballdave025/start-pirate-now)
+
+[CoLab Version](https://colab.research.google.com/drive/1rTy0LddIzkiCAHC4j5JefKp25ZpaQuEX?usp=sharing)
 
 
 
