@@ -61,7 +61,7 @@ employer would like to have the data out where everyone can find it.
 
 [`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)
 
-[MyBinder Version](https://www.google.com/url?q=https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fbballdave025%2Fjob-app-word-freq%2Fancestry_hwr%3Flabpath%3DPart_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
+[MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/main?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
 
