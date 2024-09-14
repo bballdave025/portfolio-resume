@@ -1,7 +1,15 @@
 # portfolio-resume
 A place to put links and pictures of projects I want potential employers to see.
 
- 
+At the current time, my suggestion is to use the Google CoLab Versions of
+the Jupyter Notebooks (or the PDF versions) which will show input and output
+of each cell of code.
+
+If you have more time, it might even be better to look at the MyBinder
+Version of the Jupyter Notebooks, since they are more interactive and it's
+easier to keep the versions of programs compatible. It does take longer,
+because a Docker image is getting created and served.
+
 In additional to some fun projects with general programming, I'm going to put in
 some of my favorite visualizations and Machine Learning work. Any of this stuff
 could be completely-guided-from-tutorials or completely-original, or anywhere 
@@ -14,11 +22,18 @@ screencaps, and a link to the main repo; it will be a presentation page. Here,
 I'll be making a list of the projects with links to each presentation page I 
 described above. There will also be a link to each actual repo with the 
 full project. Since I leave the notebooks without output, so that you can run
-through them yourself, I'm going to add two waysFinally, if I get things all figured out for them to work, I'll
-put a link to an online, interactive Jupyter Notebook made available thanks
-to the [MyBinder](https://mybinder.org/) project. 
+through them yourself, I'm going to add two waysFinally, if I get things all 
+figured out for them to work, I'll put a link to an online, interactive Jupyter 
+Notebook made available thanks to the [MyBinder](https://mybinder.org/) project. 
 
 # Higgs Boson Visualization
+
+<b>Suggestion for Now:</b> If you want to be able to check things out quickly, 
+use the CoLab specific notebook, which you can
+
+<a href="https://colab.research.google.com/drive/1xROjIalylxzxJSDAM0fJ69pV1UEu9R7q?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+`----------`
 
 Can we get the data from the CMS experiment (part of the LHC) and (re-)discover
 the Higgs Boson - also called the God Particle? You can judge for yourself. The
@@ -64,6 +79,9 @@ employer would like to have the data out where everyone can find it.
 [MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/main?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
+
+<a href="https://colab.research.google.com/drive/1PKkdbNcqUfV0sHCosWZf3JdF6F3kGoj7?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 This is a better answer to a job interview question that I felt I didn't answer very
 well. It's a nice combination of NLP and Machine Learning basics.
