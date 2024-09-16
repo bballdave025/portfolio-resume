@@ -66,6 +66,25 @@ discovery figure. Below is a sneak peak at my work and the discovery figure.
 
 # Do My Application and Résumé Match the Job Description?
 
+<b>Suggestion for Now:</b> If you want to be able to check things out quickly, 
+use the CoLab specific notebook, which you can
+
+<a href="https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+This is part 4, which is the most interesting. The other parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can see the MyBinder versions for those.
+
+[part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
+
+[part 2](https://colab.research.google.com/drive/13jVnZEocQLfVK2u9pWrae4-KkGghojSk?usp=sharing)
+
+[part 3](https://colab.research.google.com/drive/1nZK2W8yux9u9sX4yz5n7Ok_WiIXgAzdh?usp=sharing)
+
+[part 4](https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing)
+
+[part 5](https://colab.research.google.com/drive/1Ko2WImQPvi0HeQ9Lue1TUhOK1Kyhz_3_?usp=sharing)
+
+`----------`
+
 This is a nice project that contains some fundamental parts of Natural Language
 Processing. I use it for my job applications. Currently, I'm thinking about
 running it for a job that really interests me, using AI/ML and Data Science to 
@@ -76,12 +95,16 @@ employer would like to have the data out where everyone can find it.
 
 [`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)
 
-[MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/main?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
+[MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
 
+<b>Suggestion for Now:</b> If you want to be able to check things out quickly, 
+use the CoLab specific notebook, which you can
+
 <a href="https://colab.research.google.com/drive/1PKkdbNcqUfV0sHCosWZf3JdF6F3kGoj7?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+`----------`
 
 This is a better answer to a job interview question that I felt I didn't answer very
 well. It's a nice combination of NLP and Machine Learning basics.
@@ -133,6 +156,12 @@ These images are details of interesting finds in the dataset I've been building 
 
 
 # Hooray! An Excuse to Learn the R Programming Language!
+
+<b>Suggestion for Now:</b> If you want to be able to check things out quickly, 
+use the CoLab specific notebook, which you can
+
+<a href="https://colab.research.google.com/drive/1rTy0LddIzkiCAHC4j5JefKp25ZpaQuEX?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 [repo](https://github.com/bballdave025/start-pirate-now)
 
