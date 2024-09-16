@@ -71,7 +71,7 @@ use the CoLab specific notebook, which you can
 
 <a href="https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-This is part 4, which is the most interesting. The other parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can see the MyBinder versions for those.
+This is part 4, which is the most interesting. If you have the time and the inclination, part 3 is the next one I'd suggest. All parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can see the MyBinder versions for those.
 
 [part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
 
