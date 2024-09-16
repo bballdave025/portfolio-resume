@@ -83,19 +83,25 @@ This is part 4, which is the most interesting. If you have the time and the incl
 
 [part 5](https://colab.research.google.com/drive/1Ko2WImQPvi0HeQ9Lue1TUhOK1Kyhz_3_?usp=sharing)
 
+Note that you can't jump from one part to another inside of the CoLab notebooks. You'll need
+to keep coming back to this README to click on the CoLab links (the `part 1`, `part 2`, etc.
+links above.
+
 `----------`
 
 This is a nice project that contains some fundamental parts of Natural Language
 Processing. I use it for my job applications. Currently, I'm thinking about
 running it for a job that really interests me, using AI/ML and Data Science to 
 help in the medical-imaging business, but I'm not sure if the potential
-employer would like to have the data out where everyone can find it.
+employer would like to have the job description out where everyone can find it.
 
 [<b>Check Match between Job Description and Job Application</b> Presentation Page (not yet set up)](#)
 
 [`job-app-word-freq` repo](https://github.com/bballdave025/job-app-word-freq)
 
 [MyBinder Version](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
 
