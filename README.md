@@ -201,8 +201,19 @@ Here are some images of the kind of things for which we're searching and which w
 <br/>
 
 These images are details of interesting finds in the dataset I've been building and using.
-Things are more interesting if the images are bigger; click on the image to have a new tab
-open with the full-size image as hosted on GitHub. Make sure you use the zoom functions.
+
+Things are more interesting if the images are bigger; but I didn't use the right format above for easily seeing the images full-size.
+The previous links go to GitHub file information pages and have alt-text for the seeing impaired and those wanting more info. 
+The following links will go to images, as long as your browser isn't
+set up for download. Make sure you use the zoom functions.
+
+[![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)
+
+[![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png)
+
+[![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png)
+
+[![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)
 
 I need to put in some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
 stuff in first.
