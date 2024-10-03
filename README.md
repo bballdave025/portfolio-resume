@@ -83,9 +83,11 @@ This is part 4, which is the most interesting. If you have the time and the incl
 
 [part 5](https://colab.research.google.com/drive/1Ko2WImQPvi0HeQ9Lue1TUhOK1Kyhz_3_?usp=sharing)
 
-Note that you can't jump from one part to another inside of the CoLab notebooks. You'll need
+<strike>Note that you can't jump from one part to another inside of the CoLab notebooks. You'll need
 to keep coming back to this README to click on the CoLab links (the `part 1`, `part 2`, etc.
-links above.
+links above).</strike> I think I've fixed it so that you can go sequentially through the parts
+in CoLab, but I haven't thoroughly tested it. Coming back here is also useful if you want to 
+see things out-of-order.
 
 `----------`
 
@@ -194,7 +196,7 @@ Here are some images of the kind of things for which we're searching and which w
   <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png" 
      target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png"
-       alt="Printed request for old books and genealogically referent fragment marked with date, place, occupation or title, and name."
+       alt="Printed request for old books and a genealogically relevant fragment marked with date, place, occupation or title, and name."
        width="100%">
   </a>
 </div>
@@ -208,8 +210,8 @@ The following links will go to images, as long as your browser isn't
 set up for download. Make sure you use the zoom functions.
 
 <b>Edit:</b> [Apparently](https://stackoverflow.com/questions/31558605/zoomable-image-in-markdown#comment80743279_31561231) ([archived](https://web.archive.org/web/20240108223632/https://stackoverflow.com/questions/31558605/zoomable-image-in-markdown)), 
-zooming in on GitHub images is a bit complicated. I have a new `@todo` - come back and figure out how to give you zoomable
-images without you needing to download them.
+zooming in on GitHub images is a bit complicated. <strike>I have a new `@todo` - come back and figure out how to give you zoomable
+images without you needing to download them.</strike> I think you can click on these next images and see full-size and/or zoomable images.
 
 <!--
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)
@@ -220,8 +222,41 @@ images without you needing to download them.
 
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)
 -->
-I need to put in some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
-stuff in first.
+
+<br/>
+<div>
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png"
+       alt="Some color images, with the important text highlighted in bright green. The bright green wasn't originally in the manuscripts."
+       width="65%">
+</div>
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png"
+       alt="Various images from the paper and from the slide deck."
+       width="65%">
+</div>
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png"
+       alt="Various finds, including some pre-greening and post-greening, Mark 15:12, and iron gall ink corrosion."
+       width="65%">
+</div>
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png"
+       alt="Printed request for old books and a genealogically relevant fragment marked with date, place, occupation or title, and name."
+       width="65%">
+</div>
+<br/>
+
+The presentation of the project would be better with some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
+stuff in first. `@todo` - Get loss/accuracy curves.
 
 <b>I'd personally suggest you start with this following slide deck.</b>
 
