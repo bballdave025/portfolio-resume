@@ -210,10 +210,10 @@ The following links will go to images, as long as your browser isn't
 set up for download. Make sure you use the zoom functions.
 
 <b>Edit:</b> [Apparently](https://stackoverflow.com/questions/31558605/zoomable-image-in-markdown#comment80743279_31561231) ([archived](https://web.archive.org/web/20240108223632/https://stackoverflow.com/questions/31558605/zoomable-image-in-markdown)), 
-zooming in on GitHub images is a bit complicated. <strike>I have a new `@todo` - come back and figure out how to give you zoomable
-images without you needing to download them.</strike> I think you can click on these next images and see full-size and/or zoomable images.
+zooming in on GitHub images is a bit complicated. I have a new `@todo` - come back and figure out how to give you zoomable
+images without you needing to download them. <strike>I think you can click on these next images and see full-size and/or zoomable images.</strike>
 
-<!--
+<!-- Try 1: No
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png)
 
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png)
@@ -223,6 +223,7 @@ images without you needing to download them.</strike> I think you can click on t
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)
 -->
 
+<!-- Try 2: No
 <br/>
 <div>
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png"
@@ -254,6 +255,7 @@ images without you needing to download them.</strike> I think you can click on t
        width="65%">
 </div>
 <br/>
+-->
 
 The presentation of the project would be better with some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
 stuff in first. `@todo` - Get loss/accuracy curves.
