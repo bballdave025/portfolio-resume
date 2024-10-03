@@ -154,12 +154,70 @@ well as untapped genealogical data - come as researchers look at what book-binde
 called waste and used to bind and protect other works.  We bring Machine Learning and
 Artificial Intelligence into the search.
 
-\[Images cropped on interesting parts.\]
+Here are some images of the kind of things for which we're searching and which we've found.
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_01a.png" 
+     target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png"
+       alt="Some color images, with the important text highlighted in bright green. The bright green wasn't originally in the manuscripts."
+       width="100%">
+  </a>
+</div>
+<br/>
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_02a.png" 
+     target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png"
+       alt="Various images from the paper and from the slide deck."
+       width="100%">
+  </a>
+</div>
+<br/>
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_03a.png" 
+     target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png"
+       alt="Various finds, including some pre-greening and post-greening, Mark 15:12, and iron gall ink corrosion."
+       width="100%">
+  </a>
+</div>
+<br/>
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png" 
+     target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png"
+       alt="Printed request for old books and genealogically referent fragment marked with date, place, occupation or title, and name."
+       width="100%">
+  </a>
+</div>
+<br/>
 
 These images are details of interesting finds in the dataset I've been building and using.
+Things are more interesting if the images are bigger; click on the image to have a new tab
+open with the full-size image as hosted on GitHub. Make sure you use the zoom functions.
+
+I need to put in some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
+stuff in first.
+
+<b>I'd personally suggest you start with this following slide deck.</b>
+
+[Slide Deck from Conference Presentation on GitHub](https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/RestOfStory_-_MSReuseAsFHInfo.pdf)
+
+Here are things with code, paper, and presentation.
 
 [`manuscript-waste-reuse-finder` repo](https://github.com/bballdave025/manuscript-waste-reuse-finder)
 
+[Paper on GitHub](https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/BLACK-D_and_PRISBREY-K_-_FHTC_2024_-_Reused_Manuscript_Fragments_update_2024-02-21.pdf)
+
+[Paper on Academia.edu - Free Account Needed for Access](https://www.academia.edu/120229768/Manuscript_Fragments_Reused_in_Bindings_as_Untapped_Genealogical_Sources_Opportunities_for_Family_History_and_Manuscript_Studies_to_Easily_Provide_Information_for_One_Another_All_with_the_Help_of_Machine_Learning)
 
 # Hooray! An Excuse to Learn the R Programming Language!
 
