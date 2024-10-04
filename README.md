@@ -75,13 +75,63 @@ This is part 4, which is the most interesting. If you have the time and the incl
 
 [part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
 
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <img src="./one_for_presentation.png"
+       alt="Part 1."
+       width="100%">
+  </a>
+</div>
+<br/>
+
 [part 2](https://colab.research.google.com/drive/13jVnZEocQLfVK2u9pWrae4-KkGghojSk?usp=sharing)
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <img src="./two_for_presentation.png"
+       alt="Part 2."
+       width="100%">
+  </a>
+</div>
+<br/>
 
 [part 3](https://colab.research.google.com/drive/1nZK2W8yux9u9sX4yz5n7Ok_WiIXgAzdh?usp=sharing)
 
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <img src="./three_for_presentation.png"
+       alt="Part 3."
+       width="100%">
+  </a>
+</div>
+<br/>
+
 [part 4](https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing)
 
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <img src="./portfolio_freq_rank_1.png"
+       alt="Part 4."
+       width="50%">
+  </a>
+</div>
+<br/>
+
 [part 5](https://colab.research.google.com/drive/1Ko2WImQPvi0HeQ9Lue1TUhOK1Kyhz_3_?usp=sharing)
+
+<br/>
+<div>
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <img src="./portfolio_freq_ranks_1-thru-3.png"
+       alt="Part 5."
+       width="100%">
+  </a>
+</div>
+<br/>
 
 <strike>Note that you can't jump from one part to another inside of the CoLab notebooks. You'll need
 to keep coming back to this README to click on the CoLab links (the `part 1`, `part 2`, etc.
@@ -221,9 +271,9 @@ images without you needing to download them. <strike>I think you can click on th
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png)
 
 [![](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)](https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png)
--->
+~~
 
-<!-- Try 2: No
+~~ Try 2: No
 <br/>
 <div>
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_01a.png"
