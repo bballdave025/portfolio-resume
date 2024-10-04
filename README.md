@@ -93,7 +93,7 @@ That link above is for part 4, which (I think) is the most interesting. Part 5 g
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/portfolio-presentation/blob/main/portfolio_freq_rank_1.png?raw=1">
+  <a href="https://github.com/bballdave025/portfolio-resume/blob/main/portfolio_freq_rank_1.png?raw=1">
   <img src="./portfolio_freq_rank_1.png"
        alt="Part 4."
        width="75%">
@@ -105,7 +105,7 @@ That link above is for part 4, which (I think) is the most interesting. Part 5 g
 
 <br/>
 <div>
-  <a href="ttps://github.com/bballdave025/portfolio-presentation/blob/main/portfolio_freq_ranks_1_thru_3.png?raw=1">
+  <a href="ttps://github.com/bballdave025/portfolio-resume/blob/main/portfolio_freq_ranks_1_thru_3.png?raw=1">
   <img src="./portfolio_freq_ranks_1_thru_3.png"
        alt="Part 5."
        width="100%">
