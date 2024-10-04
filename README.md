@@ -75,9 +75,11 @@ That link above is for part 4, which (I think) is the most interesting. Part 5 g
 
 [part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
 
+This is a view of my process, with the code for defining the functions imaged in the order I made them.
+
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/portfolio-presentation/blob/main/one_for_presentation.png?raw=1">
+  <a href="https://github.com/bballdave025/portfolio-resume/blob/main/one_for_presentation.png?raw=1">
   <img src="./one_for_presentation.png"
        alt="Part 1."
        width="100%">
