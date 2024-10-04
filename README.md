@@ -71,13 +71,13 @@ use the CoLab specific notebook, which you can
 
 <a href="https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-This is part 4, which is the most interesting. If you have the time and the inclination, part 3 is the next one I'd suggest. All parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can see the MyBinder versions for those.
+That link above is for part 4, which (I think) is the most interesting. Part 5 gives the results (currently for the 5 most frequently used words from the job description and the most frequently used word in the job application. If you have the time and the inclination, part 3 is the next one I'd suggest. All parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can also see the MyBinder versions near the end of this section.
 
 [part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <a href="https://github.com/bballdave025/portfolio-presentation/blob/main/one_for_presentation.png?raw=1">
   <img src="./one_for_presentation.png"
        alt="Part 1."
        width="100%">
@@ -87,36 +87,16 @@ This is part 4, which is the most interesting. If you have the time and the incl
 
 [part 2](https://colab.research.google.com/drive/13jVnZEocQLfVK2u9pWrae4-KkGghojSk?usp=sharing)
 
-<br/>
-<div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
-  <img src="./two_for_presentation.png"
-       alt="Part 2."
-       width="100%">
-  </a>
-</div>
-<br/>
-
 [part 3](https://colab.research.google.com/drive/1nZK2W8yux9u9sX4yz5n7Ok_WiIXgAzdh?usp=sharing)
-
-<br/>
-<div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
-  <img src="./three_for_presentation.png"
-       alt="Part 3."
-       width="100%">
-  </a>
-</div>
-<br/>
 
 [part 4](https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing)
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
+  <a href="https://github.com/bballdave025/portfolio-presentation/blob/main/portfolio_freq_rank_1.png?raw=1">
   <img src="./portfolio_freq_rank_1.png"
        alt="Part 4."
-       width="50%">
+       width="75%">
   </a>
 </div>
 <br/>
@@ -125,8 +105,8 @@ This is part 4, which is the most interesting. If you have the time and the incl
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png">
-  <img src="./portfolio_freq_ranks_1-thru-3.png"
+  <a href="ttps://github.com/bballdave025/portfolio-presentation/blob/main/portfolio_freq_ranks_1_thru_3.png?raw=1">
+  <img src="./portfolio_freq_ranks_1_thru_3.png"
        alt="Part 5."
        width="100%">
   </a>
@@ -221,7 +201,7 @@ Here are some images of the kind of things for which we're searching and which w
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_02a.png" 
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_02a.png?raw=1" 
      target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_02a.png"
        alt="Various images from the paper and from the slide deck."
@@ -232,7 +212,7 @@ Here are some images of the kind of things for which we're searching and which w
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_03a.png" 
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_03a.png?raw=1" 
      target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_03a.png"
        alt="Various finds, including some pre-greening and post-greening, Mark 15:12, and iron gall ink corrosion."
@@ -243,7 +223,7 @@ Here are some images of the kind of things for which we're searching and which w
 
 <br/>
 <div>
-  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png" 
+  <a href="https://github.com/bballdave025/manuscript-waste-reuse-finder/blob/main/rmfb_04a.png?raw=1" 
      target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/bballdave025/manuscript-waste-reuse-finder/main/rmfb_04a.png"
        alt="Printed request for old books and a genealogically relevant fragment marked with date, place, occupation or title, and name."
