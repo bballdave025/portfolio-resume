@@ -3,7 +3,11 @@ A place to put links and pictures of projects I want potential employers to see.
 
 At the current time, my suggestion is to use the Google CoLab Versions of
 the Jupyter Notebooks (or the PDF versions) which will show input and output
-of each cell of code.
+of each cell of code. These will have a button and link like the following 
+(the following is just an image with no link).
+
+<img src="https://colab.research.google.com/assets/colab-badge.svg" 
+     alt="Picture of Colab button with no link"/>
 
 If you have more time, it might even be better to look at the MyBinder
 Version of the Jupyter Notebooks, since they are more interactive and it's
@@ -16,15 +20,16 @@ could be completely-guided-from-tutorials or completely-original, or anywhere
 in between.
 
 I'll just use links here, with each link pointing to a markdown file in the 
-`porftfolio-resume` repo with. Each of these markdown files will have with a 
+`porftfolio-resume` repo with \[*** stuff  `-> @todo` ***]\. Each of these markdown files will have with a 
 short description of the project and any visualization, some images with 
 screencaps, and a link to the main repo; it will be a presentation page. Here, 
 I'll be making a list of the projects with links to each presentation page I 
 described above. There will also be a link to each actual repo with the 
 full project. Since I leave the notebooks without output, so that you can run
-through them yourself, I'm going to add two waysFinally, if I get things all 
-figured out for them to work, I'll put a link to an online, interactive Jupyter 
-Notebook made available thanks to the [MyBinder](https://mybinder.org/) project. 
+through them yourself, I'm going to add two ways \[ *** unfinished `-> @todo` *** \] 
+Finally, if I get things all figured out for them to work, I'll put a link to 
+an online, interactive Jupyter Notebook made available thanks to 
+the [MyBinder](https://mybinder.org/) project. \[ Get rid of the "if I get it" `@todo` \]
 
 # Higgs Boson Visualization
 
@@ -33,12 +38,15 @@ use the CoLab specific notebook, which you can
 
 <a href="https://colab.research.google.com/drive/1xROjIalylxzxJSDAM0fJ69pV1UEu9R7q?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+(which you can Open In Colab).
+
 `----------`
 
 Can we get the data from the CMS experiment (part of the LHC) and (re-)discover
-the Higgs Boson - also called the God Particle? You can judge for yourself. The
-figure from my analysis is at top left. Two different views of the discovery
-plot shown in the discovery publication are below and to the right of my plot. 
+the Higgs Boson – also called the God Particle? You can judge for yourself. The
+figure from my analysis is at top left in the image below. Two different views 
+of the discovery plot shown in the discovery publication are below and to the 
+right of my plot. 
 
 <br/>
 <div>
@@ -56,13 +64,19 @@ plot shown in the discovery publication are below and to the right of my plot.
 
 [MyBinder Version](https://mybinder.org/v2/gh/bballdave025/higgs_boson_visualized/main?labpath=Higgs_Boson_Discovery_Visualization.ipynb)
 
+_Commented out text to eventually go on the presentation page_
+
+<!--
+
 \[To put on the presentation page\]
+
 This was my chance to return to grad school, where I studied Nuclear/Particle
 Physics. The goal was to do the data analysis to "re-discover" the Higgs Boson - 
 also called the God Particle. I got the data, prepared it, and ran the
-analysis to create a histogram that looks pretty similar to the publicatin's
+analysis to create a histogram that looks pretty similar to the publication's
 discovery figure. Below is a sneak peak at my work and the discovery figure.
 
+-->
 
 # Do My Application and Résumé Match the Job Description?
 
@@ -71,7 +85,9 @@ use the CoLab specific notebook, which you can
 
 <a href="https://colab.research.google.com/drive/1ivJGeQwJ9Jt7bJx66ji6UUz7TsI6dQNa?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-That link above is for part 4, which (I think) is the most interesting. Part 5 gives the results (currently for the 5 most frequently used words from the job description and the most frequently used word in the job application. If you have the time and the inclination, part 3 is the next one I'd suggest. All parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can also see the MyBinder versions near the end of this section.
+(which you can Open In Colab).
+
+That link above is for part 4, which (I think) is the most interesting. Part 5 gives the results (currently for the 5 most frequently used words from the job description and the most frequently used word in the job application). If you have the time and the inclination, part 3 is the next one I'd suggest. All parts are linked below. Note that here, as with the other Google CoLab Notebooks, the point is to give a notebook with the input and the output. For some, you might be able to re-do the code running. For others, the versions of Python and the libraries won't be compatible. You can also see the MyBinder versions near the end of this section.
 
 [part 1](https://colab.research.google.com/drive/1ZpNF9GFrj2aFHmHxZQe4ARK8yh8yCMB9?usp=sharing)
 
@@ -107,7 +123,7 @@ This is a view of my process, with the code for defining the functions imaged in
 
 <br/>
 <div>
-  <a href="ttps://github.com/bballdave025/portfolio-resume/blob/main/portfolio_freq_ranks_1_thru_3.png?raw=1">
+  <a href="https://github.com/bballdave025/portfolio-resume/blob/main/portfolio_freq_ranks_1_thru_3.png?raw=1">
   <img src="./portfolio_freq_ranks_1_thru_3.png"
        alt="Part 5."
        width="100%">
@@ -115,19 +131,26 @@ This is a view of my process, with the code for defining the functions imaged in
 </div>
 <br/>
 
-<strike>Note that you can't jump from one part to another inside of the CoLab notebooks. You'll need
-to keep coming back to this README to click on the CoLab links (the `part 1`, `part 2`, etc.
-links above).</strike> I think I've fixed it so that you can go sequentially through the parts
-in CoLab, but I haven't thoroughly tested it. Coming back here is also useful if you want to 
-see things out-of-order.
+\[ -v-  Cut this down  -v- \]
+
+You can go sequentially through the parts in CoLab, but coming back here 
+is useful if you want to see things out-of-order.
 
 `----------`
+
+_Commented out text to eventually go on the presentation page_
+
+<!--
+
+\[To put on the presentation page\]
 
 This is a nice project that contains some fundamental parts of Natural Language
 Processing. I use it for my job applications. Currently, I'm thinking about
 running it for a job that really interests me, using AI/ML and Data Science to 
 help in the medical-imaging business, but I'm not sure if the potential
 employer would like to have the job description out where everyone can find it.
+
+-->
 
 [<b>Check Match between Job Description and Job Application</b> Presentation Page (not yet set up)](#)
 
@@ -144,10 +167,12 @@ use the CoLab specific notebook, which you can
 
 <a href="https://colab.research.google.com/drive/1PKkdbNcqUfV0sHCosWZf3JdF6F3kGoj7?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+(which you can Open In Colab).
+
 `----------`
 
-This is a better answer to a job interview question that I felt I didn't answer very
-well. It's a nice combination of NLP and Machine Learning basics.
+This is a completely formatted answer to a job interview question. 
+It's a nice combination of NLP and Machine Learning basics.
 
 [<b>CNN for NLP in PyTorch</b> Presentation Page (not yet set up)](#)
 
@@ -236,6 +261,8 @@ Here are some images of the kind of things for which we're searching and which w
 
 These images are details of interesting finds in the dataset I've been building and using.
 
+\[ *** -v- Take most of this out. -v- *** \]
+
 Things are more interesting if the images are bigger; but I didn't use the right format above for easily seeing the images full-size.
 The previous links go to GitHub file information pages and have alt-text for the seeing impaired and those wanting more info. 
 The following links will go to images, as long as your browser isn't
@@ -287,10 +314,11 @@ images without you needing to download them. <strike>I think you can click on th
        width="65%">
 </div>
 <br/>
+
 -->
 
 The presentation of the project would be better with some graphs of loss/accuracy curves, etc., but I wanted to get the pretty
-stuff in first. `@todo` - Get loss/accuracy curves.
+stuff in first. `-> @todo` - Get/produce loss/accuracy curves.
 
 <b>I'd personally suggest you start with this following slide deck.</b>
 
