@@ -4,7 +4,8 @@ A place to put links and pictures of projects I want potential employers to see.
 At the current time, my suggestion is to use the Google CoLab Versions of
 the Jupyter Notebooks (or the PDF versions) which will show input and output
 of each cell of code. These will have a button and link like the following 
-(the following is just an image with no link).
+(the following is just an image no link, except when viewed in GitHub, in
+which case there is a link leading to the image in its own window).
 
 <img src="https://colab.research.google.com/assets/colab-badge.svg" 
      alt="Picture of Colab button with no link"/>
@@ -161,6 +162,8 @@ employer would like to have the job description out where everyone can find it.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/job-app-word-freq/polished-5part-presented?labpath=Part_01_NLPPresentationJobHunt_DemoWordFreq.ipynb)
 
 # Convolutional Neural Network for Natural Language Processing - CNN for NLP (in PyTorch)
+
+### Using a CNN for Text Classification - not the standard approad, but interesting
 
 <b>Suggestion for Now:</b> If you want to be able to check things out quickly, 
 use the CoLab specific notebook, which you can
