@@ -1,6 +1,9 @@
 # portfolio-resume
 A place to put links and pictures of projects I want potential employers to see.
 
+If you have come fom the Amazon AGI Portfolio page, and you want to go back,
+[this link](https://github.com/bballdave025/portfolio-amz-agi/tree/main) will get it done for you.
+
 At the current time, my suggestion is to use the Google CoLab Versions of
 the Jupyter Notebooks (or the PDF versions) which will show input and output
 of each cell of code. These will have a button and link like the following 
